@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourname&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=youtonghy&left_color=green&right_color=red)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=youtonghy&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youtonghy&layout=compact&theme=tokyonight)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
+
