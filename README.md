@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=youtonghy&left_color=green&right_color=red)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youtonghy&theme=default&show_icons=true)
 
